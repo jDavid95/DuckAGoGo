@@ -8,7 +8,7 @@ DuckAGoGo lets you do quick searches thru Duckduckgo's API thru the comfort of y
 This is the first version of DuckAGoGo for now only supports quick searches, which means it will only fetch results for those searches that have abstracts in their results. 
 
 ## Usage
-To run just ```./DuckAGoGo``` and it will enter in prompt mode. From here you can start typing your query or if you would like to enter the translation mode just simple type ```translate```. To exit the original DuckAGoGo prompt simply type exit.
+To run just ```./DuckAGoGo``` and it will enter in prompt mode. From here you can start typing your query or if you would like to enter the translation mode just simple type ```translate```. To exit the original DuckAGoGo prompt simply type ```exit```.
 
 ## Considerations and Contributions
 This is an early stage conceptual project, if you find bugs or have any suggestions feel free to contact me or submit your commits.
